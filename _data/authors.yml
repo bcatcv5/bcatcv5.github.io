@@ -6,12 +6,27 @@
 #   url: {homepage_of_author}
 # -------------------------------------
 
-cotes:
-  name: Cotes Chung
-  twitter: cotes2020
-  url: https://github.com/cotes2020/
 
-sille_bille:
-  name: Dinesh Prasanth Moluguwan Krishnamoorthy
-  twitter: dinesh_MKD
-  url: https://github.com/SilleBille/
+ywh:
+  name: 양우희
+  url: https://github.com/woohee-yang
+
+lyj: 
+  name: 이영진
+  url: https://github.com/jinida
+
+cmj:
+  name: 조민지
+  url: https://github.com/cmj5064
+
+csm:
+  name: 조수민
+  url: https://github.com/ccsum19
+
+cch:
+  name: 조창희
+  url: https://github.com/hee000
+
+hsb:
+  name: 한상범
+  url: https://github.com/SangBeom-Hahn
