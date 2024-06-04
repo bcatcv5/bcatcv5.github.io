@@ -22,9 +22,6 @@ search:
   cancel: Cancel
   no_results: Oops! No results found.
 
-panel:
-  toc: Contents
-
 copyright:
   # Shown at the bottom of the post
   license:
